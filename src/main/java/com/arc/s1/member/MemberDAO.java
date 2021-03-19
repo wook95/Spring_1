@@ -7,6 +7,8 @@ import java.sql.ResultSet;
 
 import org.springframework.stereotype.Repository;
 
+import com.arc.s1.member.DbConnector;
+
 @Repository
 public class MemberDAO {
 
